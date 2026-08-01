@@ -29,8 +29,7 @@ B.Tech CSE student • Learning full-stack development and DSA • Building thin
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://cdn.pixabay.com/photo/2018/05/08/21/28/html5-3384014_1280.png"/>
-  img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRX_bBgZPOwHsTn0pkY_Qfnzk8_jdFOIWmI272BEmdMPBWi01YWpR7tXO21&s=10"/>
+
 </p>
 
 **Frontend**
