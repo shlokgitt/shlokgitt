@@ -14,7 +14,7 @@ B.Tech CSE student • Learning full-stack development and DSA • Building thin
 
 ### 🔭 What I'm doing
 
-- 🚧 Currently building **Route Resilience** — a disaster-resilient road network analysis app for ISRO BAH 2026, using Dijkstra, A*, and graph algorithms on real OSM data
+
 - 🌱 Currently learning **Next.js** and **Express.js**
 - 🤝 Looking to collaborate on open-source projects
 - 💬 Looking for help with system design and backend architecture
