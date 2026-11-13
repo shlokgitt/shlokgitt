@@ -5,7 +5,7 @@ B.Tech CSE student • Learning full-stack development and DSA • Building thin
 </p>
 
 <p align="center">
-  <a href="https://route-resilience-frontend-app.vercel.app/">
+  <a href="https://transit-assistant-ne4f.vercel.app/">
     <img src="https://img.shields.io/badge/Live%20Project-Route%20Resilience-2ea44f?style=flat-square" alt="Route Resilience"/>
   </a>
 </p>
